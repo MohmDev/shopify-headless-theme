@@ -1,6 +1,6 @@
 {
   "current": {
-    "storefront_hostname": "http:\/\/localhost:3000",
+    "storefront_hostname": "localhost:3000",
     "content_for_index": [
 
     ]
