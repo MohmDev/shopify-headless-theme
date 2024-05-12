@@ -1,6 +1,6 @@
 {
   "current": {
-    "storefront_hostname": "vercel-commerce.oramasearch.com",
+    "storefront_hostname": "http:\/\/localhost:3000",
     "content_for_index": [
 
     ]
