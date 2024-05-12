@@ -1,6 +1,6 @@
 {
   "current": {
-    "storefront_hostname": "http:\/\/localhost:3000",
+    "storefront_hostname": "raver-test.vercel.app",
     "custom_redirects": "",
     "content_for_index": [
 
